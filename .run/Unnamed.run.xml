@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+    <envs>
+      <env name="spring.profiles.active" value="local" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.example.redirect_reproducer.DemoApplication" />
+    <module name="redirect-reproducer" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
